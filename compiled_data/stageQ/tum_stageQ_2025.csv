@@ -1,0 +1,31 @@
+Site Name,Field visit date,Field task,Q Method,Stage (ft),Measured Q (cfs),Gage maintenance notes
+Tuolumne@120,5/20/2025,"Discharge, Stage",ADCP,5.1,455,Did not download
+Tuolumne@120,7/1/2025,"Discharge, Stage",ADCP,3.665,130.7,
+Tuolumne@120,7/21/2025,"Discharge, Stage",ADV,2.97,39.2,Discharge taken ~50 yards upstream of stream gage site (see photos).
+Tuolumne@120,8/18/2025,"Discharge, Stage",ADV,2.64,13.1,Only using last stage measurement. Discharge taken ~50 yards upstream of stream gage site.
+Tuolumne@120,9/9/2025,"Discharge, Stage",ADV,2.61,10.83,
+LyellAbvTB,5/20/2025,"Discharge, Stage",ADCP,10.46,265,"Discharge taken downstream of control, ~ 50ft above twin bridges."
+LyellAbvTB,6/26/2025,"Discharge, Stage",ADCP,9.71,74.6,Discharge calcs rerun in WinRiver to fix transducer depth input error
+LyellAbvTB,7/24/2025,"Discharge, Stage",ADCP,9.315,28.1,"Discharge measurements were inconsistent, likely due to wind; only transects 000, 003, 004, and 007 were within 5% of each other, so these were averaged for the final discharge. Transects 001 and 002 were incomplete."
+LyellAbvTB,8/19/2025,"Discharge, Stage, levelogger download",ADV,9.045,9.55,"Took discharge measurement ~50 yards downstream of gaging site, just above bedrock control (see photos)."
+LyellAbvTB,9/19/2025,"Discharge, Stage",ADV,8.98,6.835,
+DanaFrk@BugCamp,5/20/2025,"Discharge, Stage, Data Download",ADCP,1.91,170,
+DanaFrk@BugCamp,6/26/2025,"Discharge, Stage, Data Download",ADCP,1.27,39.4,Discharge calcs rerun in WinRiver to fix transducer depth input error
+DanaFrk@BugCamp,7/23/2025,"Discharge, Stage",ADV,1.01,9.09,
+DanaFrk@BugCamp,7/24/2025,Data download,N/A,1,N/A,
+DanaFrk@BugCamp,8/19/2025,"Discharge, stage, datalogger & Levelogger download",ADV,0.87,2.92,"Measured discharge ~100 yards upstream of gaging site, just above bedrock bar (see photos)."
+DanaFrk@BugCamp,9/10/2025,"Discharge, Stage",ADV,0.91,3.8,"Measured discharge ~150 yards upstream of gaging site, above cascade."
+DelaneyCrkAbvPCT,6/16/2025,"Discharge, Stage",ADV,7.63,14.4,
+DelaneyCrkAbvPCT,6/30/2025,"Discharge, Stage",ADV,7.29,6.44,
+DelaneyCrkAbvPCT,7/22/2025,"Discharge, Stage",ADV,6.865,1.034,
+DelaneyCrkAbvPCT,8/25/2025,"Discharge, Stage",ADV,6.745,0.47,"Very low flow, cobbly, high uncertainty. After 8/23-24 flood"
+BuddCrk,5/27/2025,"Discharge, Stage",ADV,TD = -1.44,46.57,
+BuddCrk,6/30/2025,"Discharge, Stage",ADV,7.88,5.8,
+BuddCrk,7/22/2025,"Discharge, Stage",ADV,7.655,0.889,"Stage is raw, not adjusted yet with CF"
+BuddCrk,8/18/2025,"Discharge, Stage",ADV,7.485,0.13,Discharge measurement is questionable. ADV consistently reported measurement errors due to extremely low flow.
+LyellBlwMaclure,6/18/2025,"Discharge, Stage, Data Download",Salt,7.59,52.91,"Re-check these stages, confusing measurements"
+LyellBlwMaclure,6/18/2025,,Rhodamine,7.59,62.49,
+LyellBlwMaclure,6/18/2025,,Salt,7.6,50.13,
+LyellBlwMaclure,6/18/2025,,Rhodamine,7.6,64.54,
+LyellBlwMaclure,9/4/2025,"Discharge, stage, datalogger & Levelogger download, Temp-RH instrument swap, desiccant swap",Salt,6.88,10.85,
+LyellBlwMaclure,9/4/2025,,Salt,6.89,10.72,
