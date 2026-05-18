@@ -1,0 +1,37 @@
+POST PROCESSING LOG FILE FOR: LyellAbvTB
+DATA COLLECTION YEAR: 2025
+LOG CREATED: 02/05/2026
+
+
+
+RAW SOLINST META DATA
+
+
+Serial_number:
+1093360
+Project ID:
+YOSEHydroclimate
+Location:
+LyellAbvTwinBridges
+LEVEL
+UNIT: cm
+Offset: 0.000000 cm
+TEMPERATURE
+UNIT: °C
+CONDUCTIVITY
+UNIT: µS/cm
+Date,Time,ms,LEVEL,TEMPERATURE,CONDUCTIVITY
+
+
+SOLINST LEVEL POST PROCESSING AND QC
+
+Level Source: ..\data\normalized_raw\lvl_LyellAbvTB_2025.csv
+UTC Inspection: Temp peaks around 0300 - 0600 AM, conclude that logger is in UTC
+Baro Source: ..\data\normalized_raw\baro_BugLab_2025.csv
+Ice Jams:
+Ice Jam 1
+start: 2025-02-01
+end: 2025-02-24
+
+Sensor Shifts: None
+

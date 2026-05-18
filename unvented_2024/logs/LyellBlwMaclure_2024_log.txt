@@ -1,0 +1,22 @@
+POST PROCESSING LOG FILE FOR: LyellBlwMaclure
+DATA COLLECTION YEAR: 2024
+LOG CREATED: 02/05/2026
+
+
+
+RAW SOLINST META DATA
+
+
+Serial_number:
+2184911
+Project ID:
+Hydroclimate
+Location:
+LyellBlwMaclure
+LEVEL
+UNIT: cm
+Offset: 0.000000 cm
+TEMPERATURE
+UNIT: °C
+Date,Time,ms,LEVEL,TEMPERATURE
+
